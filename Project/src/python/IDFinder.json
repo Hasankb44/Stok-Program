@@ -1,0 +1,14 @@
+{
+    "items": [
+        {
+            "isim": "Masa",
+            "numara": 2,
+            "fiyat": 4380.0
+        },
+        {
+            "isim": "Hasankb44",
+            "numara": 1,
+            "fiyat": 1e+17
+        }
+    ]
+}
